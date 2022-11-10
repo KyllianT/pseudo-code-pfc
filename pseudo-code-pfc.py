@@ -1,3 +1,4 @@
+DEBUT 
 #On admet une fonction random tel que on obtiens un nombre aléatoire
 
 #On admet une fonction input tels que elle renvois les choix de l'utilisateur et de l'ordianrteur 
@@ -81,3 +82,4 @@
 #Sinon si le joueur choisit l'option CISEAUX et que l'ordinateur a choisit l'option CISEAUX
 
     #Afficher comme resultat: Egalite
+FIN
